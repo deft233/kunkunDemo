@@ -1,0 +1,27 @@
+.swipperKun {
+  margin-bottom: 20rpx;
+}
+.container {
+  padding: 20px;
+  font-size: 14px;
+  line-height: 24px;
+}
+.btnContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+button {
+  margin: 10rpx;
+}
+.btn {
+  flex: auto;
+  width: 100rpx;
+  height: 100rpx;
+}
+.btn1 {
+  flex: auto;
+}
+.second {
+  font-size: 32rpx;
+}
+
